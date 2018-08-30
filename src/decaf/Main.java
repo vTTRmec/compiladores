@@ -42,7 +42,7 @@ class Main {
 							break;
 						case DecafLexer.HEXADECIMAL:	
 							type= " INTLITERAL";
-							break; 
+							break;
 
 		        			}
 		        			System.out.println (token.getLine() + type + " " + text);
