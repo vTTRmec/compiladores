@@ -52,5 +52,5 @@ fragment
 ALFAHEX : ('a'..'f' | 'A'..'F');
 
 fragment 
-NUMERO : ('0'..'9');
+NUMERO : ('0'..'9'); 
 
